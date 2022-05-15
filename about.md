@@ -27,7 +27,6 @@ Honors and Awards
 ======
 * 2021\. Thanks for the Chinese Modern Scientist Scholarship（only 24 students in the university）
 * 2020\. Outstanding Student of Northwestern Polytechnical University
-* 2021\. Outstanding Student of Northwestern Polytechnical University
 * 2020\. National Champion of China Robotics Competition Basketball Robot Project(Challenge) 
 * 2022\. National Champion of China Robotics Competition Basketball Robot Project(Autonomy) 
 * 2021\. National First Prize of National Robot Championship 
