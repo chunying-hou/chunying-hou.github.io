@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiang-Mingze"
+title                    : "Chunying-Hou"
 title_separator          : "-"
-name                     : &name "Jiang-Mingze"
-description              : &description "Undergraduate at Northwestern Polytechnical University"
+name                     : &name "Chunying-Hou"
+description              : &description "Undergraduate at Beijing Forestry University"
 url                      : https://jiang-mingze.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiang-mingze/jiang-mingze.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "姜明泽"
-  avatar           : "profile.png"
-  bio              : "Undergraduate at Northwestern Polytechnical University"
-  location         : "Xi'an,China"
+  name             : "侯春莹"
+  avatar           : "chunying-hou.jpg"
+  bio              : "Undergraduate at Beijing Forestry University"
+  location         : "Beijing,China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jiangmingze@mail.nwpu.edu.cn"
+  email            : "hou18940562058@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jiang-mingze"
+  github           : "chunying-hou"
   google_plus      :
   keybase          :
   instagram        :
