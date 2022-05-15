@@ -11,9 +11,9 @@ title                    : "Chunying-Hou"
 title_separator          : "-"
 name                     : &name "Chunying-Hou"
 description              : &description "Undergraduate at Beijing Forestry University"
-url                      : https://jiang-mingze.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chunying-hou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jiang-mingze/jiang-mingze.github.io"
+repository               : "chunying-hou/chunying-hou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "侯椿莹"
-  avatar           : "profile1.png"
+  avatar           : "profile.jpg"
   bio              : "Undergraduate at Beijing Forestry University"
   location         : "Beijing,China"
   employer         :
