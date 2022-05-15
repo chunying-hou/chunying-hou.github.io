@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiang-Mingze(姜明泽)'s Homepage"
+title: "Chunying-hou(侯椿莹)'s Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
